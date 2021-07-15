@@ -1,10 +1,14 @@
 # 2021summer
 
 > 2021.7.11-2021.8-27   ——  49天
+>
+> 努力是为了成为自己心中所想之人，而非为了成为他人
 
 ### Data structures and algorithms
 
 > LeetCode as a assitant，and implement with Java.
+>
+> Learning material：MOOC Junhui Deng，Bilibili data structure
 
 - Complexity calculation
   - （O）
